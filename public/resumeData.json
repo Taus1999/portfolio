@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Shehjad Ali",
+    "occupation": "Just a Web Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hello People, 🔵 I am just here in the Web Development Industry👨‍💻 with a decent amount of experience and happy clients. 🔵 The mere idea of building cool stuffs while also ensuring people with value and satisfaction, gives me an awesome thrill to be in this field of work. ⚫️ I do not want any random works that does not bring any value or profit to someone's life. 🟢 In conclusion, I welcome you all to work with me and help me to bring value to your purpose. I love what I do and I am sure you will do too.",
+    "contactmessage": "Get in touch with me for any query",
+    "email": "satauskz@gmail.com",
+    "phone": "+8801626526999",
+    "address": {
+      "street": "454/3",
+      "city": "Dhaka",
+      "state": "Bangladesh",
+      "zip": "1216"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC6xNMTkQadnffOLiCPNykEw",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shehjad.khan.1485/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shehjad-ali-taus-1b90651b5/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shehjad.dev/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Taus1999",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "BRAC University",
+        "degree": "Bachelor's in Computer Science & Engineering",
+        "graduated": "Undergraduate Student",
+        "description": "CGPA - 3.34"
+      }
+    ],
+    "work": [
+      {
+        "company": "Cloud Company",
+        "title": "Front End Web Developer",
+        "years": "Sept 2020 - Present",
+        "description": "Fixed bugs, developed business websites and lead a team of 3 people most of the time"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Shopping Cart",
+        "category": "",
+        "image": "shopping.jpg",
+        "url": "https://shopping-cart-by-sat.netlify.app/"
+      },
+      {
+        "title": "Expression Validator",
+        "category": "",
+        "image": "eva.jpg",
+        "url": "https://expression-validator-by-sat.netlify.app/"
+      },
+      {
+        "title": "Github Finder",
+        "category": "",
+        "image": "githubfinder.jpg",
+        "url": "https://github-finder-by-sat.netlify.app/"
+      },
+      {
+        "title": "Guessing Game",
+        "category": "",
+        "image": "ngg.jpg",
+        "url": "https://number-guessing-game-by-sat.netlify.app/"
+      },
+      {
+        "title": "Task List",
+        "category": "",
+        "image": "tasklist.jpg",
+        "url": "https://task-list-by-sat.netlify.app/"
+      },
+      {
+        "title": "Book List",
+        "category": "",
+        "image": "booklist.jpg",
+        "url": "https://book-list-by-sat.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Shehjad has been able to be consistent with each and every task completion at Cloud Company, his problem solving skills are at the dopest level. I would like to add this as well that I have seen his growth from being a average developer to being a confident team leader.",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "I myself being a back end developer have collaborated with Shehjad on plenty of projects. He has been one of the best persons I have worked with in the last 2 years. Time management skills are on point as well",
+        "user": "Monower Sadaf"
+      }
+    ]
+  }
+}
